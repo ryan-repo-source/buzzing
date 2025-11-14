@@ -1,0 +1,130 @@
+/* Shared skeleton style */
+.skeleton-header,
+.skeleton-meta-tags,
+.skeleton-sidebar-card {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 24px;
+}
+
+.skeleton-logo {
+    width: 60px;
+    height: 60px;
+    background: #e2e8f0;
+    border-radius: 12px;
+}
+
+.skeleton-header-text {
+    flex: 1;
+}
+
+.skeleton-title {
+    height: 18px;
+    width: 60%;
+    background: #e0e0e0;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+.skeleton-sub {
+    height: 12px;
+    width: 40%;
+    background: #e2e8f0;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.skeleton-sub.thin {
+    width: 30%;
+    height: 10px;
+}
+
+.skeleton-tag {
+    width: 90px;
+    height: 20px;
+    background: #e5e7eb;
+    border-radius: 6px;
+}
+
+.skeleton-tag.wide {
+    width: 160px;
+}
+
+.skeleton-video {
+    height: 300px;
+    width: 100%;
+    background: #d1d5db;
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
+
+.skeleton-block {
+    width: 160px;
+    height: 18px;
+    background: #cbd5e1;
+    border-radius: 6px;
+    margin: 16px 0 12px;
+}
+
+.skeleton-line {
+    height: 10px;
+    width: 80%;
+    background: #e2e8f0;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.skeleton-line.wide {
+    width: 95%;
+}
+
+.skeleton-section-title {
+    height: 14px;
+    width: 30%;
+    background: #e5e7eb;
+    margin: 18px 0 12px;
+    border-radius: 4px;
+}
+
+.skeleton-bullet {
+    height: 10px;
+    width: 60%;
+    background: #f1f5f9;
+    border-radius: 4px;
+    margin-bottom: 6px;
+    margin-left: 20px;
+}
+
+.skeleton-btn {
+    width: 120px;
+    height: 34px;
+    background: #cbd5e1;
+    border-radius: 8px;
+    margin-top: 24px;
+}
+
+/* Sidebar layout */
+.skeleton-sidebar-card {
+    flex-direction: column;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 280px;
+    margin-left: 20px;
+}
+
+.skeleton-side-title {
+    height: 16px;
+    width: 120px;
+    background: #e2e8f0;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+
+.skeleton-side-item {
+    height: 12px;
+    width: 80%;
+    background: #f3f4f6;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}

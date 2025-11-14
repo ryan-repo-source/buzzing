@@ -1,0 +1,57 @@
+{
+  "name": "buzzinguniverse",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emoji-mart/data": "^1.2.1",
+    "@emoji-mart/react": "^1.1.1",
+    "@tinymce/tinymce-react": "^6.1.0",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "cra-template": "1.2.0",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.13",
+    "emoji-picker-react": "^4.13.2",
+    "framer-motion": "^12.18.1",
+    "froala-editor": "^4.5.0",
+    "lucide-react": "^0.525.0",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.7",
+    "react-dom": "^18.3.1",
+    "react-easy-crop": "^5.4.1",
+    "react-froala-wysiwyg": "^4.5.0",
+    "react-icons": "^5.4.0",
+    "react-mentions": "^4.4.10",
+    "react-router-dom": "^7.1.1",
+    "react-scripts": "5.0.1",
+    "react-secure-storage": "^1.3.2",
+    "react-slick": "^0.30.3",
+    "react-toastify": "^11.0.5",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

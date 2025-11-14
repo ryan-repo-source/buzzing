@@ -1,0 +1,1751 @@
+@media only screen and (min-width: 1366px) and (max-width: 1920px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (min-width: 520px) and (max-width: 767px) {
+    .what-new-bejan-box > div {
+    margin-right: 0 !important;
+}
+
+.tab-new {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+    .welcome-every-one-sec {
+        height: 670px;
+    }
+
+    .welcome-every-one-img img {
+        width: 30%;
+    }
+
+    .welcome-every-one-img {
+        text-align: center;
+    }
+
+    .welcome-every-one-form {
+        margin-top: 20px;
+    }
+
+    .welcome-every-one-form form {
+        width: 100%;
+    }
+
+    ul.welcome-every-one-link {
+        gap: 0;
+        justify-content: space-between;
+    }
+
+    ul.welcome-every-one-link li a {
+        font-size: 13px;
+    }
+
+    .business-health-box-sec .col {
+        width: 100%;
+        flex: unset;
+    }
+
+    .business-health-main-box {
+        margin-bottom: 20px;
+    }
+
+    .business-health-main-box-heading {
+        height: auto;
+        padding: 10px 20px;
+    }
+
+    .explore-an-online-row {
+        margin-top: 0px;
+    }
+
+    .explore-an-online-sec {
+        padding-top: 0px;
+    }
+
+    .explore-an-online-heading h2 br {
+        display: none;
+    }
+
+    .explore-an-online-heading h2 {
+        font-size: 40px;
+    }
+
+    .explore-an-online-post-ads-images img {
+        height: 300px;
+        object-fit: contain;
+    }
+
+    .companies-and-entrepreneurs-sec .container-fluid {
+        padding: 0 10px !important;
+    }
+
+    .companies-and-entrepreneurs-img {
+        border: 2px solid #a4a4a4;
+        margin-bottom: 20px;
+    }
+
+    .companies-and-entrepreneurs-row {
+        border-top: unset;
+        margin-top: 20px;
+    }
+
+    .companies-and-entrepreneurs-row .col-lg-4.col-md-4.col-12.padding-right-no.padding-left-no {
+        padding: 0 12px;
+    }
+
+    .companies-and-entrepreneurs-heading h2 {
+        padding: 0 0;
+    }
+
+    .companies-and-entrepreneurs-heading {
+        height: 130px;
+        text-align: center;
+    }
+
+    .companies-and-entrepreneurs-banner {
+        margin: 20px 10px 0;
+    }
+
+
+    .companies-and-entrepreneurs-banner img {
+        height: 250px;
+    }
+
+    .join-us-on-buzzing-universe-sec {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .dreamstime-images {
+        padding: 0;
+    }
+
+    .footerHome {
+        padding: 30px 10px;
+        text-align: center;
+    }
+
+    .join-us-on-buzzing-universe-sec:before {
+        height: 100%;
+    }
+
+    .menusec-login-register ul {
+        justify-content: center;
+    }
+
+    .topSec .row {
+        text-align: center;
+    }
+
+    .topSec {
+        padding: 10px 0;
+    }
+
+    .brand-and-attracting-customers-sec {
+        padding-top: 30px;
+    }
+
+    .brand-and-attracting-customers-images {
+        margin-top: 20px;
+    }
+
+    .brand-and-attracting-customers-images img {
+        height: 350px;
+    }
+
+    .brand-and-attracting-customers-images ul li {
+        padding: 0;
+    }
+
+    .leave-reply-box p {
+        padding: 10px;
+        margin: 0;
+    }
+
+    .explore-an-online-heading {
+        text-align: center;
+    }
+
+    .explore-an-online-post-ads-heading h2 {
+        text-align: center;
+    }
+
+    button.d-md-none.btn svg {
+        color: #fff;
+    }
+
+    ul#menu a {
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        line-height: 30px;
+    }
+
+    .menuSec {
+        min-height: auto;
+        display: none;
+    }
+
+    .menuSec.open {
+        display: block;
+    }
+
+    .menuSec li:hover>ul {
+        position: unset;
+    }
+
+    ul#menu a li a {
+        padding: 0 !important;
+    }
+
+    .inner-groups-pages-link-sec ul {
+        justify-content: space-between;
+    }
+
+    .group-admin {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .grp-img img {
+        width: 100px;
+        height: 100px;
+        margin: 0px 30px 0px;
+    }
+
+    .group-detail.chg {
+        margin-top: -65px;
+    }
+
+    .grp-img {
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+    }
+
+    .group-detail h4 {
+        margin-left: 20px;
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+        color: #000;
+        text-shadow: unset;
+    }
+
+    .group-detail h4 span {
+        display: block;
+        margin: 0;
+        color: #0000;
+    }
+
+    .grp-img h3 {
+        color: #fff;
+        font-size: 12px;
+        text-align: start;
+    }
+
+    .wifi_box select {
+        width: 80%;
+    }
+
+    .group-settings-container {
+        width: 100% !important;
+        padding: 0;
+    }
+
+    .personal_right_box ul#pills-tab {
+        width: 100%;
+    }
+
+    .personal_right_box .nav-link {
+        padding: 10px 9px;
+        font-size: 10px;
+    }
+
+       .countSpan {
+        min-width: 12px;
+        height: 12px;
+        display: inline-block;
+        font-size: 8px;
+    }
+
+    .group-detail ul li a {
+        font-size: 12px;
+    }
+
+     .group-detail ul {
+        margin: 0;
+        gap: 12px;
+        left: unset;
+        right: 0;
+    }
+
+    .edit_profile_secc>.container:after {
+        display: none;
+    }
+
+    .edit_profile_secc ul.left_wrpr {
+        justify-content: start;
+        margin: 0;
+    }
+
+    .myPhotos {
+        text-align: start;
+    }
+
+    .myPhotos ul {
+        justify-content: start;
+    }
+
+    .edit_profile_secc .view_prof_dlt {
+        width: 100%;
+    }
+
+    section.edit_profile_secc {
+        margin-top: 0;
+    }
+
+    [data-online]:after {
+        margin-top: 0;
+        background: green;
+        color: #fff;
+        width: 30%;
+        font-size: 12px;
+        margin-right: 30px;
+    }
+
+    .admin-top {
+        height: 170px;
+    }
+
+    .group-detail-text {
+        margin-top: 0;
+    }
+
+    .jobWrpert.col-lg-9 {
+        padding: 0;
+    }
+
+    .container-jobW {
+        display: block;
+        padding: 30px 10px;
+    }
+
+    .jb-job-title {
+        font-size: 20px;
+    }
+
+    aside.jb-sidebar {
+        width: 100%;
+        margin-top: 20px;
+        border: unset;
+    }
+
+    .jb-overview {
+        padding: 0;
+    }
+
+    .jb-meta label {
+        font-size: 18px;
+    }
+
+    .jb-meta p {
+        font-size: 16px;
+    }
+
+    .jb-apply-btn {
+        margin: 0;
+    }
+
+    .adrt {
+        display: block;
+    }
+
+    .adrt-img {
+        width: 100%;
+    }
+
+    img.asd-main-image {
+        height: 250px;
+    }
+
+    .note-actions {
+        display: block;
+        text-align: center;
+    }
+
+    .note-button {
+        margin-bottom: 10px;
+    }
+
+    .gall-wrap .col-md-4 {
+        width: 50%;
+    }
+
+    .gall-person ul li h3 {
+        font-size: 14px;
+    }
+
+    .gall-img img {
+        height: 200px;
+    }
+
+    .personal_right_box img.adrt-img {
+        width: 100%;
+        height: 250px;
+    }
+
+    .inner-groups-search-box.sticky .d-flex.align-items-center.pe-5.me-5 {
+        justify-content: center;
+        margin: 0 !important;
+        padding: 0 !important;
+        margin-top: 20px !important;
+    }
+
+    .side-button {
+        position: unset;
+        margin-bottom: 30px;
+    }
+
+    .group-detail-text p {
+        margin: 0;
+        font-size: 14px;
+        margin-top: 10px !important;
+    }
+
+    .navigate-dropdown {
+        right: 0;
+        left: unset;
+        top: 50px;
+    }
+
+    .search-groups-select select {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .register-main-form.composeBox {
+        width: 100%;
+    }
+
+    .myPhotos ul li {
+        width: 31%;
+    }
+
+    .myPhotos img {
+        height: 100px;
+    }
+    .activity-all-memeber-link-comment ul {gap: 25px !important;}
+
+.activity-all-memeber-link-comment ul li a {
+    font-size: 11px !important;
+}
+
+.activity-all-memeber-link-comment {
+    width: 100%;
+}
+.notification-container {
+    max-width: 100%;
+}
+
+.notification-table td a {
+    font-size: 11px;
+    width: 130px;
+    display: block;
+}
+.personal_des_box ul li a.groupNbgh {
+    margin: 0 36px 0px;
+    font-size: 12px;
+}
+
+.personal_des_box ul li a {
+    font-size: 12px;
+}
+
+.personal_des_box ul li img {
+    width: 30px;
+    height: 30px;
+}
+
+        .personal_des_box strong {
+        font-size: 10px;
+        margin-left: 36px !important;
+        margin-top: 4px !important;
+        display: block;
+    }
+
+        .fav-btn-dropdown {
+        right: 0;
+        top: -6px;
+    }
+    .collageCount-3 .collageGrid, .collageCount-4 .collageGrid {
+    grid-template-columns: repeat(3, 1fr);
+}
+    .comment-actions {
+    margin: 10px 10px;
+}
+.groupNbgh img {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.personal_des_box ul {
+    gap: 5px;
+    margin: 0;
+    display: block;
+}
+ul.comment-box-btn {
+    display: flex;
+}
+ul.comment-box-form {
+    display: flex;
+}
+.activity-all-memeber-link-comment a {
+    font-size: 14px !important;
+}
+    ul.personal_des_list {
+        display: block;
+        margin: 0;
+    }
+
+       ul.personal_des_list [data-user-online="true"] {
+        /* top: 16px; */
+        /* margin-right: 5px; */
+        width: 32px;
+    }
+    ul.personal_des_list li:nth-child(2) {
+    margin-top: -34px;
+    margin-left: 36px;
+}   
+    .activity-all-memeber-boxs:before {
+    display: none;
+}
+
+
+
+a.groupNbgh img {
+    display: none;
+}
+.admin-top>span {
+    bottom: 40px;
+}
+.fav-btn-dropdown-toggle {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.personal_des_box.activity-all-memeber-boxs {
+    padding-left: 0;
+}
+
+.personal_des_box>p {
+    width: 100%;
+    margin: 15px 0 30px;
+}
+.activity-all-memeber-boxs:before {
+    left: 15px;
+}
+.activity-all-memeber-boxs:before {
+    left: 15px;
+}
+.personal_des_box.activity-all-memeber-boxs {
+    margin: 20px 0;
+}
+.collageWrap {
+    width: 100%;
+}
+.commentScroll1 {
+    margin: 15px 0;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared>p {
+    width: 100%;
+}
+.personal_des_box ul li p {max-width: 200px;}
+.fav-btn-dropdown-toggle {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.personal_des_box.activity-all-memeber-boxs.shared {
+    width: 100%;
+    padding: 20px 10px;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared strong {margin: 0 !important;width: 100px;}
+
+.personal_des_box.activity-all-memeber-boxs.shared ul {
+    display: block;
+}
+
+.personal_des_box .search-groups-boxs {
+    width: 100%;
+}
+.personal_des_box.activity-all-memeber-boxs.shared {}
+
+.personal_des_box {
+    padding: 0;
+}
+
+.personal_des_box.comment_area>p {
+    margin: 10px 0;
+    width: 100%;
+}
+
+    .personal_des_box.activity-all-memeber-boxs.shared li:nth-child(2) {
+        /* width: 80%; */
+        margin-top: -33px;
+        margin-left: 40px;
+    }
+.tf-tag-badge {
+    font-size: 12px;
+}
+
+
+audio.personal_des_box_audio {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.personal_des_box_image {
+    width: 100%;
+    margin-top: 20px;
+    object-fit: cover;
+}
+.comment-actions {
+    margin: 10px 10px;
+}
+
+.activity-all-memeber-link-comment-boxs {
+    margin: 0 0;
+}
+
+.personal_des_box ul li:last-child .open_div {
+    width: 100%;
+}
+
+ul.comment-box-btn {
+    margin-top: 12px;
+}
+
+.replies {
+    margin-left: 30px;
+}
+.sorry-activity-found.activity-all-memeber {
+    width: 100% !important;
+}
+
+
+.personal_right_box .tab-pane > div {
+        width: 100% !important;
+        padding-right: 0 !important;
+        margin-right: 0 !important;
+    }
+
+.conv-ui-message-item {
+    gap: 0;
+}
+
+.conv-ui-message-item>div:first-child {
+    width: 45%;
+}
+.notification-table th {
+    font-size: 12px;
+}
+.group-admin img {
+    width: 20px;
+    height: 20px;
+}
+
+.group-admin a:not(:last-child) img {
+    margin-right: -10px;
+}
+.search-groups-boxs {
+    padding: 15px;
+}
+.forum-avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.forum-user-section {
+    width: 80px;
+}
+
+.forum-parent-preview {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.add_topic-form {
+    padding: 10px;
+}
+.emoji-picker-container {
+    right: 0;
+}
+
+.what-new-bejan-box ul {
+    display: block;
+    text-align: center;
+}
+
+.what-new-bejan-box {
+    padding: 20px;
+}
+
+ul.max-file-size-box li input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+ul.max-file-size-box li select {
+    width: 100%;
+    margin: 10px 0;
+}
+
+ul.post-in-profile li select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.placeholder_div {
+    width: 80%;
+}
+.personal_right_box.groupForm {
+    width: 100%;
+}
+
+label.file-upload-box.mb-0 {
+    width: 100%;
+}
+.userPrty a {
+    font-size: 12px;
+    width: 74%;
+}
+
+.memberTiles select {
+    font-size: 13px;
+    width: 60%;
+    height: 25px;
+}
+.personal_right_box.groupForm {
+    width: 100%;
+}
+
+label.file-upload-box.mb-0 {
+    width: 100%;
+}
+
+
+
+.memberTile>button {
+    font-size: 12px;
+    padding: 0px 12px;
+    height: 26px;
+}
+.search-groups-pages-number ul {
+    justify-content: center;
+}
+
+.search-box {
+    width: 68%;
+}
+
+.search-box button {
+    margin-left: -20px;
+}
+
+.job-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+}
+
+.job-title {
+    font-size: 15px;
+}
+.jb-company-logo {
+    width: 40px;
+    height: 40px;
+}
+.jobWrpert {
+    padding: 0;
+}
+.frequently-asked-questions-box p {
+    width: 100%;
+}
+
+ul.personal_des_list li:nth-child(2) {
+    margin-top: -34px;
+    margin-left: 36px;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared li:nth-child(2) a {
+    font-size: 10px;
+}
+
+.tf-tagged-users {
+    font-size: 10px;
+}
+
+.tf-tagged-users .tf-tag-badge {
+    font-size: 8px;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared li:nth-child(3) {
+    margin-left: 42px;
+}
+.personal_des_box.activity-all-memeber-boxs > ul li:nth-child(2) {
+    margin-top: -34px;
+    margin-left: 35px;
+}
+
+.activity-all-memeber-link-comment ul {
+    display: flex;
+}
+
+.personal_des_box.comment_area > ul li:nth-child(2) {
+    margin-top: -37px;
+    margin-left: 40px;
+}
+
+
+.personal_des_box.comment_area > ul li:nth-child(3) {
+    margin-left: 5px;
+}
+
+[data-user-online="true"] {
+    width: 32px;
+}
+.forum-container tbody td {
+    min-width: auto;
+}
+
+.forum-container thead th {
+    padding: 0 10px;
+    font-size: 12px;
+}
+
+.forum-container .forum-info .desc, .forum-container .forum-info .desc p {
+    font-size: 10px;
+}
+
+.forum-container .forum-info .icon {
+    width: 30px;
+    height: 30px;
+}
+
+.forum-container .forum-info {
+    gap: 5px;
+}
+
+.forum-container .forum-info .title {
+    font-size: 12px;
+}
+
+.forum-container tbody td {
+    padding: 10px 5px;
+}
+
+td.no-topics a {
+    font-size: 12px;
+}
+
+td.no-topics a {
+    font-size: 12px;
+}
+
+.forum-container .no-topics {
+    font-size: 8px;
+}
+
+.forum-container .forum-info .icon .fa-comment-dots {
+    font-size: 15px;
+}
+section.edit_profile_secc .personal_right_box .nav-link {
+    padding: 0 5px;
+    font-size: 10px;
+}
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 519px) {
+
+.what-new-bejan-box > div {
+    margin-right: 0 !important;
+}
+
+.tab-new {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+    .welcome-every-one-sec {
+        height: 670px;
+    }
+
+    .welcome-every-one-img img {
+        width: 30%;
+    }
+
+    .welcome-every-one-img {
+        text-align: center;
+    }
+
+    .welcome-every-one-form {
+        margin-top: 20px;
+    }
+
+    .welcome-every-one-form form {
+        width: 100%;
+    }
+
+    ul.welcome-every-one-link {
+        gap: 0;
+        justify-content: space-between;
+    }
+
+    ul.welcome-every-one-link li a {
+        font-size: 13px;
+    }
+
+    .business-health-box-sec .col {
+        width: 100%;
+        flex: unset;
+    }
+
+    .business-health-main-box {
+        margin-bottom: 20px;
+    }
+
+    .business-health-main-box-heading {
+        height: auto;
+        padding: 10px 20px;
+    }
+
+    .explore-an-online-row {
+        margin-top: 0px;
+    }
+
+    .explore-an-online-sec {
+        padding-top: 0px;
+    }
+
+    .explore-an-online-heading h2 br {
+        display: none;
+    }
+
+    .explore-an-online-heading h2 {
+        font-size: 40px;
+    }
+
+    .explore-an-online-post-ads-images img {
+        height: 300px;
+        object-fit: contain;
+    }
+
+    .companies-and-entrepreneurs-sec .container-fluid {
+        padding: 0 10px !important;
+    }
+
+    .companies-and-entrepreneurs-img {
+        border: 2px solid #a4a4a4;
+        margin-bottom: 20px;
+    }
+
+    .companies-and-entrepreneurs-row {
+        border-top: unset;
+        margin-top: 20px;
+    }
+
+    .companies-and-entrepreneurs-row .col-lg-4.col-md-4.col-12.padding-right-no.padding-left-no {
+        padding: 0 12px;
+    }
+
+    .companies-and-entrepreneurs-heading h2 {
+        padding: 0 0;
+    }
+
+    .companies-and-entrepreneurs-heading {
+        height: 130px;
+        text-align: center;
+    }
+
+    .companies-and-entrepreneurs-banner {
+        margin: 20px 10px 0;
+    }
+
+
+    .companies-and-entrepreneurs-banner img {
+        height: 250px;
+    }
+
+    .join-us-on-buzzing-universe-sec {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .dreamstime-images {
+        padding: 0;
+    }
+
+    .footerHome {
+        padding: 30px 10px;
+        text-align: center;
+    }
+
+    .join-us-on-buzzing-universe-sec:before {
+        height: 100%;
+    }
+
+    .menusec-login-register ul {
+        justify-content: center;
+    }
+
+    .topSec .row {
+        text-align: center;
+    }
+
+    .topSec {
+        padding: 10px 0;
+    }
+
+    .brand-and-attracting-customers-sec {
+        padding-top: 30px;
+    }
+
+    .brand-and-attracting-customers-images {
+        margin-top: 20px;
+    }
+
+    .brand-and-attracting-customers-images img {
+        height: 350px;
+    }
+
+    .brand-and-attracting-customers-images ul li {
+        padding: 0;
+    }
+
+    .leave-reply-box p {
+        padding: 10px;
+        margin: 0;
+    }
+
+    .explore-an-online-heading {
+        text-align: center;
+    }
+
+    .explore-an-online-post-ads-heading h2 {
+        text-align: center;
+    }
+
+    button.d-md-none.btn svg {
+        color: #fff;
+    }
+
+    ul#menu a {
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        line-height: 30px;
+    }
+
+    .menuSec {
+        min-height: auto;
+        display: none;
+    }
+
+    .menuSec.open {
+        display: block;
+    }
+
+    .menuSec li:hover>ul {
+        position: unset;
+    }
+
+    ul#menu a li a {
+        padding: 0 !important;
+    }
+
+    .inner-groups-pages-link-sec ul {
+        justify-content: space-between;
+    }
+
+    .group-admin {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .grp-img img {
+        width: 100px;
+        height: 100px;
+        margin: 0px 30px 0px;
+    }
+
+    .group-detail.chg {
+        margin-top: -65px;
+    }
+
+    .grp-img {
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+    }
+
+    .group-detail h4 {
+        margin-left: 20px;
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 20px;
+        color: #000;
+        text-shadow: unset;
+    }
+
+    .group-detail h4 span {
+        display: block;
+        margin: 0;
+        color: #0000;
+    }
+
+    .grp-img h3 {
+        color: #fff;
+        font-size: 12px;
+        text-align: start;
+    }
+
+    .wifi_box select {
+        width: 80%;
+    }
+
+    .group-settings-container {
+        width: 100% !important;
+        padding: 0;
+    }
+
+    .personal_right_box ul#pills-tab {
+        width: 100%;
+    }
+
+    .personal_right_box .nav-link {
+        padding: 10px 9px;
+        font-size: 10px;
+    }
+
+       .countSpan {
+        min-width: 12px;
+        height: 12px;
+        display: inline-block;
+        font-size: 8px;
+    }
+
+    .group-detail ul li a {
+        font-size: 12px;
+    }
+
+     .group-detail ul {
+        margin: 0;
+        gap: 12px;
+        left: unset;
+        right: 0;
+    }
+
+    .edit_profile_secc>.container:after {
+        display: none;
+    }
+
+    .edit_profile_secc ul.left_wrpr {
+        justify-content: start;
+        margin: 0;
+    }
+
+    .myPhotos {
+        text-align: start;
+    }
+
+    .myPhotos ul {
+        justify-content: start;
+    }
+
+    .edit_profile_secc .view_prof_dlt {
+        width: 100%;
+    }
+
+    section.edit_profile_secc {
+        margin-top: 0;
+    }
+
+    [data-online]:after {
+        margin-top: 0;
+        background: green;
+        color: #fff;
+        width: 30%;
+        font-size: 12px;
+        margin-right: 30px;
+    }
+
+    .admin-top {
+        height: 170px;
+    }
+
+    .group-detail-text {
+        margin-top: 0;
+    }
+
+    .jobWrpert.col-lg-9 {
+        padding: 0;
+    }
+
+    .container-jobW {
+        display: block;
+        padding: 30px 10px;
+    }
+
+    .jb-job-title {
+        font-size: 20px;
+    }
+
+    aside.jb-sidebar {
+        width: 100%;
+        margin-top: 20px;
+        border: unset;
+    }
+
+    .jb-overview {
+        padding: 0;
+    }
+
+    .jb-meta label {
+        font-size: 18px;
+    }
+
+    .jb-meta p {
+        font-size: 16px;
+    }
+
+    .jb-apply-btn {
+        margin: 0;
+    }
+
+    .adrt {
+        display: block;
+    }
+
+    .adrt-img {
+        width: 100%;
+    }
+
+    img.asd-main-image {
+        height: 250px;
+    }
+
+    .note-actions {
+        display: block;
+        text-align: center;
+    }
+
+    .note-button {
+        margin-bottom: 10px;
+    }
+
+    .gall-wrap .col-md-4 {
+        width: 50%;
+    }
+
+    .gall-person ul li h3 {
+        font-size: 14px;
+    }
+
+    .gall-img img {
+        height: 200px;
+    }
+
+    .personal_right_box img.adrt-img {
+        width: 100%;
+        height: 250px;
+    }
+
+    .inner-groups-search-box.sticky .d-flex.align-items-center.pe-5.me-5 {
+        justify-content: center;
+        margin: 0 !important;
+        padding: 0 !important;
+        margin-top: 20px !important;
+    }
+
+    .side-button {
+        position: unset;
+        margin-bottom: 30px;
+    }
+
+    .group-detail-text p {
+        margin: 0;
+        font-size: 14px;
+        margin-top: 10px !important;
+    }
+
+    .navigate-dropdown {
+        right: 0;
+        left: unset;
+        top: 50px;
+    }
+
+    .search-groups-select select {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .register-main-form.composeBox {
+        width: 100%;
+    }
+
+    .myPhotos ul li {
+        width: 31%;
+    }
+
+    .myPhotos img {
+        height: 100px;
+    }
+    .activity-all-memeber-link-comment ul {gap: 25px !important;}
+
+.activity-all-memeber-link-comment ul li a {
+    font-size: 11px !important;
+}
+
+.activity-all-memeber-link-comment {
+    width: 100%;
+}
+.notification-container {
+    max-width: 100%;
+}
+
+.notification-table td a {
+    font-size: 11px;
+    width: 130px;
+    display: block;
+}
+.personal_des_box ul li a.groupNbgh {
+    margin: 0 36px 0px;
+    font-size: 12px;
+}
+
+.personal_des_box ul li a {
+    font-size: 12px;
+}
+
+.personal_des_box ul li img {
+    width: 30px;
+    height: 30px;
+}
+
+        .personal_des_box strong {
+        font-size: 10px;
+        margin-left: 36px !important;
+        margin-top: 4px !important;
+        display: block;
+    }
+
+        .fav-btn-dropdown {
+        right: 0;
+        top: -6px;
+    }
+    .collageCount-3 .collageGrid, .collageCount-4 .collageGrid {
+    grid-template-columns: repeat(3, 1fr);
+}
+    .comment-actions {
+    margin: 10px 10px;
+}
+.groupNbgh img {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.personal_des_box ul {
+    gap: 5px;
+    margin: 0;
+    display: block;
+}
+ul.comment-box-btn {
+    display: flex;
+}
+ul.comment-box-form {
+    display: flex;
+}
+.activity-all-memeber-link-comment a {
+    font-size: 14px !important;
+}
+    ul.personal_des_list {
+        display: block;
+        margin: 0;
+    }
+
+       ul.personal_des_list [data-user-online="true"] {
+        /* top: 16px; */
+        /* margin-right: 5px; */
+        width: 32px;
+    }
+    ul.personal_des_list li:nth-child(2) {
+    margin-top: -34px;
+    margin-left: 36px;
+}   
+    .activity-all-memeber-boxs:before {
+    display: none;
+}
+
+
+
+a.groupNbgh img {
+    display: none;
+}
+.admin-top>span {
+    bottom: 40px;
+}
+.fav-btn-dropdown-toggle {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.personal_des_box.activity-all-memeber-boxs {
+    padding-left: 0;
+}
+
+.personal_des_box>p {
+    width: 100%;
+    margin: 15px 0 30px;
+}
+.activity-all-memeber-boxs:before {
+    left: 15px;
+}
+.activity-all-memeber-boxs:before {
+    left: 15px;
+}
+.personal_des_box.activity-all-memeber-boxs {
+    margin: 20px 0;
+}
+.collageWrap {
+    width: 100%;
+}
+.commentScroll1 {
+    margin: 15px 0;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared>p {
+    width: 100%;
+}
+.personal_des_box ul li p {max-width: 200px;}
+.fav-btn-dropdown-toggle {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.personal_des_box.activity-all-memeber-boxs.shared {
+    width: 100%;
+    padding: 20px 10px;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared strong {margin: 0 !important;width: 100px;}
+
+.personal_des_box.activity-all-memeber-boxs.shared ul {
+    display: block;
+}
+
+.personal_des_box .search-groups-boxs {
+    width: 100%;
+}
+.personal_des_box.activity-all-memeber-boxs.shared {}
+
+.personal_des_box {
+    padding: 0;
+}
+
+.personal_des_box.comment_area>p {
+    margin: 10px 0;
+    width: 100%;
+}
+
+    .personal_des_box.activity-all-memeber-boxs.shared li:nth-child(2) {
+        /* width: 80%; */
+        margin-top: -33px;
+        margin-left: 40px;
+    }
+.tf-tag-badge {
+    font-size: 12px;
+}
+
+
+audio.personal_des_box_audio {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.personal_des_box_image {
+    width: 100%;
+    margin-top: 20px;
+    object-fit: cover;
+}
+.comment-actions {
+    margin: 10px 10px;
+}
+
+.activity-all-memeber-link-comment-boxs {
+    margin: 0 0;
+}
+
+.personal_des_box ul li:last-child .open_div {
+    width: 100%;
+}
+
+ul.comment-box-btn {
+    margin-top: 12px;
+}
+
+.replies {
+    margin-left: 30px;
+}
+.sorry-activity-found.activity-all-memeber {
+    width: 100% !important;
+}
+
+
+.personal_right_box .tab-pane > div {
+        width: 100% !important;
+        padding-right: 0 !important;
+        margin-right: 0 !important;
+    }
+.conv-ui-message-item {
+    gap: 0;
+}
+
+.conv-ui-message-item>div:first-child {
+    width: 45%;
+}
+.notification-table th {
+    font-size: 12px;
+}
+.group-admin img {
+    width: 20px;
+    height: 20px;
+}
+
+.group-admin a:not(:last-child) img {
+    margin-right: -10px;
+}
+.search-groups-boxs {
+    padding: 15px;
+}
+.forum-avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.forum-user-section {
+    width: 80px;
+}
+
+.forum-parent-preview {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.add_topic-form {
+    padding: 10px;
+}
+.emoji-picker-container {
+    right: 0;
+}
+
+.what-new-bejan-box ul {
+    display: block;
+    text-align: center;
+}
+
+.what-new-bejan-box {
+    padding: 20px;
+}
+
+ul.max-file-size-box li input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+ul.max-file-size-box li select {
+    width: 100%;
+    margin: 10px 0;
+}
+
+ul.post-in-profile li select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.placeholder_div {
+    width: 80%;
+}
+.personal_right_box.groupForm {
+    width: 100%;
+}
+
+label.file-upload-box.mb-0 {
+    width: 100%;
+}
+.userPrty a {
+    font-size: 12px;
+    width: 74%;
+}
+
+.memberTiles select {
+    font-size: 13px;
+    width: 60%;
+    height: 25px;
+}
+.personal_right_box.groupForm {
+    width: 100%;
+}
+
+label.file-upload-box.mb-0 {
+    width: 100%;
+}
+
+
+
+.memberTile>button {
+    font-size: 12px;
+    padding: 0px 12px;
+    height: 26px;
+}
+.search-groups-pages-number ul {
+    justify-content: center;
+}
+
+.search-box {
+    width: 68%;
+}
+
+.search-box button {
+    margin-left: -20px;
+}
+
+.job-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+}
+
+.job-title {
+    font-size: 15px;
+}
+.jb-company-logo {
+    width: 40px;
+    height: 40px;
+}
+.jobWrpert {
+    padding: 0;
+}
+.frequently-asked-questions-box p {
+    width: 100%;
+}
+
+ul.personal_des_list li:nth-child(2) {
+    margin-top: -34px;
+    margin-left: 36px;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared li:nth-child(2) a {
+    font-size: 10px;
+}
+
+.tf-tagged-users {
+    font-size: 10px;
+}
+
+.tf-tagged-users .tf-tag-badge {
+    font-size: 8px;
+}
+
+.personal_des_box.activity-all-memeber-boxs.shared li:nth-child(3) {
+    margin-left: 42px;
+}
+.personal_des_box.activity-all-memeber-boxs > ul li:nth-child(2) {
+    margin-top: -34px;
+    margin-left: 35px;
+}
+
+.activity-all-memeber-link-comment ul {
+    display: flex;
+}
+
+.personal_des_box.comment_area > ul li:nth-child(2) {
+    margin-top: -37px;
+    margin-left: 40px;
+}
+
+
+.personal_des_box.comment_area > ul li:nth-child(3) {
+    margin-left: 5px;
+}
+
+[data-user-online="true"] {
+    width: 32px;
+}
+.forum-container tbody td {
+    min-width: auto;
+}
+
+.forum-container thead th {
+    padding: 0 10px;
+    font-size: 12px;
+}
+
+.forum-container .forum-info .desc, .forum-container .forum-info .desc p {
+    font-size: 10px;
+}
+
+.forum-container .forum-info .icon {
+    width: 30px;
+    height: 30px;
+}
+
+.forum-container .forum-info {
+    gap: 5px;
+}
+
+.forum-container .forum-info .title {
+    font-size: 12px;
+}
+
+.forum-container tbody td {
+    padding: 10px 5px;
+}
+
+td.no-topics a {
+    font-size: 12px;
+}
+
+td.no-topics a {
+    font-size: 12px;
+}
+
+.forum-container .no-topics {
+    font-size: 8px;
+}
+
+.forum-container .forum-info .icon .fa-comment-dots {
+    font-size: 15px;
+}
+section.edit_profile_secc .personal_right_box .nav-link {
+    padding: 0 5px;
+    font-size: 10px;
+}
+
+}
